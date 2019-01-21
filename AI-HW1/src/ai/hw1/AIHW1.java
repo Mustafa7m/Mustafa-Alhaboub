@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package AIHW1;
+package ai.hw1;
 
  import java.util.Scanner;
 
@@ -20,6 +20,4 @@ package AIHW1;
             }
 
          }
-    }
-
- }
+     }}
